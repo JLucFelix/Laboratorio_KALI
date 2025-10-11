@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/97839353/201202868-b349079f-689c-4952-b91b-b2367d26e477.png" width="100px" alt="ícone de um cadeado com uma chave, representando segurança cibernética">
   <br>
   Laboratório de Cibersegurança: Desafio DIO
 </h1>
