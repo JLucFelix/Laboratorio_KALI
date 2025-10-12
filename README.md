@@ -56,7 +56,7 @@ Demonstração prática de como senhas fracas e a falta de validação de login 
 
 ### **📸 Evidências dos Testes**
 
-Para uma visualização detalhada de cada etapa e dos resultados, confira as capturas de tela dos testes na pasta [`screenshots_lab`](./https://github.com/JLucFelix/Laboratorio_KALI/blob/main/screenshots_lab.zip).
+Para uma visualização detalhada de cada etapa e dos resultados, confira as capturas de tela dos testes na pasta [`screenshots_lab`](./JLucFelix/Laboratorio_KALI/blob/main/screenshots_lab.zip).
 
 ---
 
