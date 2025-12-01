@@ -56,8 +56,16 @@ Demonstração prática de como senhas fracas e a falta de validação de login 
 
 ### **📸 Evidências dos Testes**
 
-Para uma visualização detalhada de cada etapa e dos resultados, confira as capturas de tela dos testes na pasta [screenshots_lab](https://github.com/JLucFelix/Laboratorio_KALI/blob/main/screenshots_lab.zip).
+Para uma visualização detalhada de cada etapa e dos resultados, confira as capturas de tela:
 
+* ** Exploração de Vulnerabilidades do Metasploit.
+https://github.com/JLucFelix/Laboratorio_KALI/blob/main/Explora%C3%A7%C3%A3oVulneranbilidadesMeta.png
+
+* ** Identificação da Porta.
+https://github.com/JLucFelix/Laboratorio_KALI/blob/main/Identifica%C3%A7%C3%A3oPorta.png
+
+* ** Experimento na pagína de testes DVWA.
+https://github.com/JLucFelix/Laboratorio_KALI/blob/main/ExperimentoDVWA.png
 ---
 
 ### **📚 Conclusão**
