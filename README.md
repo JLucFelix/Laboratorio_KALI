@@ -58,11 +58,11 @@ Demonstração prática de como senhas fracas e a falta de validação de login 
 
 Para uma visualização detalhada de cada etapa e dos resultados, confira as capturas de tela:
 
-* ** [Exploração de Vulnerabilidades do Metasploit](ExploraçãoVulneranbilidadesMeta.png)
+* ** ![Exploração de Vulnerabilidades do Metasploit](ExploraçãoVulneranbilidadesMeta.png)
 
-* ** [Identificação da Porta](IdentificaçãoPorta.png)
+* ** ![Identificação da Porta](IdentificaçãoPorta.png)
 
-* ** [Experimento na pagína de testes DVWA](ExperimentoDVWA.png)
+* ** ![Experimento na pagína de testes DVWA](ExperimentoDVWA.png)
 ---
 
 ### **📚 Conclusão**
